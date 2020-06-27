@@ -1,2 +1,2 @@
-# dotcore-web
+# DotCore Web
 Testing Azure pipeline deployment via GitHub
